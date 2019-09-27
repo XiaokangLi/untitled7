@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM registry.cn-beijing.aliyuncs.com/lxk-test/lxk:v1
 
 RUN apt-get update
 
